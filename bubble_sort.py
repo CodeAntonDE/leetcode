@@ -7,6 +7,5 @@ def bubble_sort(array):
     return array
 
 
-array = [34,343,98, 12]
-print(bubble_sort(array))
+
 
